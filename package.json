@@ -15,7 +15,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://HyunJi-2.github.io/hi-loading",
+  "homepage": "https://hyunji-2.github.io/hi-loading",
   "eslintConfig": {
     "extends": "react-app"
   },
