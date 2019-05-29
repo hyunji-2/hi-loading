@@ -20,6 +20,7 @@ class App extends Component {
                 clearInterval(uploading);
             }
         }, 10);
+
     };
 
     render() {
