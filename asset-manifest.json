@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hi-loading/static/css/main.a882a3fd.chunk.css",
+    "main.js": "/hi-loading/static/js/main.4f4e133b.chunk.js",
+    "main.js.map": "/hi-loading/static/js/main.4f4e133b.chunk.js.map",
+    "runtime~main.js": "/hi-loading/static/js/runtime~main.e2d6ef59.js",
+    "runtime~main.js.map": "/hi-loading/static/js/runtime~main.e2d6ef59.js.map",
+    "static/js/2.c272f57a.chunk.js": "/hi-loading/static/js/2.c272f57a.chunk.js",
+    "static/js/2.c272f57a.chunk.js.map": "/hi-loading/static/js/2.c272f57a.chunk.js.map",
+    "index.html": "/hi-loading/index.html",
+    "precache-manifest.8005fd4ccc85f0d56d5dfd8166e90f33.js": "/hi-loading/precache-manifest.8005fd4ccc85f0d56d5dfd8166e90f33.js",
+    "service-worker.js": "/hi-loading/service-worker.js",
+    "static/css/main.a882a3fd.chunk.css.map": "/hi-loading/static/css/main.a882a3fd.chunk.css.map",
+    "static/media/App.css": "/hi-loading/static/media/btn_comm.7eae4301.png"
+  }
+}
